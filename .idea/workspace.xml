@@ -15,7 +15,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83246556-f030-4775-a94c-98cc1429412f" name="Changes" comment="" />
+    <list default="true" id="83246556-f030-4775-a94c-98cc1429412f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Largest_Array .cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,61 +39,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.000000000000007" />
-      <entry key="S10" value="1.0000001269049577" />
-      <entry key="S30" value="1.018122109387006" />
-      <entry key="S60" value="1.5831495088219314" />
-      <entry key="M2" value="4.762951109850229" />
-      <entry key="M5" value="15.545543227203895" />
-      <entry key="M10" value="33.99382183019416" />
-      <entry key="M15" value="49.98752791037454" />
-      <entry key="M30" value="91.76948020931512" />
-      <entry key="H1" value="165.07029764573738" />
-      <entry key="H2" value="254.4598487943505" />
-      <entry key="H4" value="329.02097529116475" />
-      <entry key="D1" value="416.05439676221346" />
-      <entry key="W1" value="433.92550363286983" />
+      <entry key="MS100" value="8.590711439673223E-17" />
+      <entry key="MS500" value="6.125588266613033E-4" />
+      <entry key="S2" value="0.1854218230259545" />
+      <entry key="S5" value="0.8451149529871786" />
+      <entry key="S10" value="1.9772395868876078" />
+      <entry key="S30" value="7.5878991236341715" />
+      <entry key="S60" value="14.500785326223326" />
+      <entry key="M2" value="22.278367214848128" />
+      <entry key="M5" value="36.509817267454814" />
+      <entry key="M10" value="58.74175120583793" />
+      <entry key="M15" value="78.70717129522599" />
+      <entry key="M30" value="128.36056324423205" />
+      <entry key="H1" value="208.74427163184853" />
+      <entry key="H2" value="307.7345621877152" />
+      <entry key="H4" value="392.6138388454147" />
+      <entry key="D1" value="494.18957561323606" />
+      <entry key="W1" value="515.3498339486001" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="8.608143084516489E-199" />
-      <entry key="S2" value="3.206672231040512E-50" />
-      <entry key="S5" value="2.043210890352147E-20" />
-      <entry key="S10" value="1.9862215489002866E-10" />
-      <entry key="S30" value="0.0013053284637687828" />
-      <entry key="S60" value="0.08215655967360609" />
-      <entry key="M2" value="0.6892783077973877" />
-      <entry key="M5" value="2.644771367965291" />
-      <entry key="M10" value="4.975166101088233" />
-      <entry key="M15" value="6.843552063240293" />
-      <entry key="M30" value="12.174359298684871" />
-      <entry key="H1" value="22.74702128220944" />
-      <entry key="H2" value="36.36747175549362" />
-      <entry key="H4" value="47.97795836603316" />
-      <entry key="D1" value="61.68417249482528" />
-      <entry key="W1" value="64.51293700275596" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000002" />
+      <entry key="S2" value="1.000226829171468" />
+      <entry key="S5" value="1.0456095322188574" />
+      <entry key="S10" value="1.2931411269099158" />
+      <entry key="S30" value="2.1967350545831543" />
+      <entry key="S60" value="3.0560378024077006" />
+      <entry key="M2" value="4.251680307414384" />
+      <entry key="M5" value="6.39530088865239" />
+      <entry key="M10" value="8.807570507832533" />
+      <entry key="M15" value="10.864204325276127" />
+      <entry key="M30" value="16.489481799975707" />
+      <entry key="H1" value="27.247133160387826" />
+      <entry key="H2" value="41.69440537976571" />
+      <entry key="H4" value="54.52170317307986" />
+      <entry key="D1" value="70.15084311327273" />
+      <entry key="W1" value="73.43305931080499" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.036906020669672815" />
-      <entry key="MS500" value="0.5169153681239822" />
-      <entry key="S2" value="0.8479199646331478" />
-      <entry key="S5" value="0.9361424615370698" />
-      <entry key="S10" value="0.9675446700379364" />
-      <entry key="S30" value="1.0079998176120428" />
-      <entry key="S60" value="1.6518765783441849" />
-      <entry key="M2" value="5.423684140863545" />
-      <entry key="M5" value="18.15202697273955" />
-      <entry key="M10" value="38.93046215468272" />
-      <entry key="M15" value="56.7947345142734" />
-      <entry key="M30" value="103.91210322033591" />
-      <entry key="H1" value="187.78892785770097" />
-      <entry key="H2" value="290.80500792193516" />
-      <entry key="H4" value="376.9842720138044" />
-      <entry key="D1" value="477.735428659053" />
-      <entry key="W1" value="498.4379713097689" />
+      <entry key="MS100" value="7.4723838622049506E-6" />
+      <entry key="MS500" value="0.09435544502243892" />
+      <entry key="S2" value="0.6345955179259856" />
+      <entry key="S5" value="1.4621029201702949" />
+      <entry key="S10" value="2.910442501620157" />
+      <entry key="S30" value="9.522665680055796" />
+      <entry key="S60" value="17.35256068692245" />
+      <entry key="M2" value="26.383150780378813" />
+      <entry key="M5" value="42.819575352102206" />
+      <entry key="M10" value="67.49028975289511" />
+      <entry key="M15" value="89.5217008092382" />
+      <entry key="M30" value="144.81113436649773" />
+      <entry key="H1" value="235.95907648949452" />
+      <entry key="H2" value="349.4041610359965" />
+      <entry key="H4" value="447.11926401166534" />
+      <entry key="D1" value="564.3369117114173" />
+      <entry key="W1" value="588.7823683129776" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -111,6 +114,7 @@
     "C/C++ File.Best_Time_to_Buy_and_Sell_Stock.cpp.executor": "Run",
     "C/C++ File.BubbleShort.cpp.executor": "Run",
     "C/C++ File.Contains Duplicate.cpp.executor": "Run",
+    "C/C++ File.Largest_Array .cpp.executor": "Run",
     "C/C++ File.Merge_Sorted_Array.cpp.executor": "Run",
     "CidrDebugProfileConversion": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -135,7 +139,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.Alternates_Array.cpp">
+  <component name="RunManager" selected="C/C++ File.Largest_Array .cpp">
     <configuration name="Alternates_Array.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Alternates_Array.cpp" CONFIG_NAME="Alternates_Array.cpp">
       <option name="sourceFile" value="Alternates_Array.cpp" />
       <method v="2">
@@ -148,14 +152,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleShort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="BubbleShort.cpp" CONFIG_NAME="BubbleShort.cpp">
-      <option name="sourceFile" value="BubbleShort.cpp" />
+    <configuration name="Contains Duplicate.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Contains Duplicate.cpp" CONFIG_NAME="Contains Duplicate.cpp">
+      <option name="sourceFile" value="Contains Duplicate.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Contains Duplicate.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Contains Duplicate.cpp" CONFIG_NAME="Contains Duplicate.cpp">
-      <option name="sourceFile" value="Contains Duplicate.cpp" />
+    <configuration name="Largest_Array .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Largest_Array .cpp" CONFIG_NAME="Largest_Array .cpp">
+      <option name="sourceFile" value="Largest_Array .cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -168,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Largest_Array .cpp" />
         <item itemvalue="C/C++ File.Alternates_Array.cpp" />
         <item itemvalue="C/C++ File.Merge_Sorted_Array.cpp" />
         <item itemvalue="C/C++ File.Best_Time_to_Buy_and_Sell_Stock.cpp" />
         <item itemvalue="C/C++ File.Contains Duplicate.cpp" />
-        <item itemvalue="C/C++ File.BubbleShort.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +202,7 @@
     },
     {
       "first": {
-        "##RUN_CONFIGURATION##": "C/C++ File.BubbleShort.cpp"
+        "##RUN_CONFIGURATION##": "C/C++ File.Largest_Array .cpp"
       },
       "second": "09619829-6737-4fb6-acb2-fd2e7e510b21"
     },
@@ -209,7 +213,7 @@
       "second": "09619829-6737-4fb6-acb2-fd2e7e510b21"
     }
   ],
-  "modificationCount": 17
+  "modificationCount": 19
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
