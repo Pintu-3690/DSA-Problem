@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83246556-f030-4775-a94c-98cc1429412f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tekoBwEl" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000000007" />
+      <entry key="S10" value="1.0000001269049577" />
+      <entry key="S30" value="1.018122109387006" />
+      <entry key="S60" value="1.5831495088219314" />
+      <entry key="M2" value="4.762951109850229" />
+      <entry key="M5" value="15.545543227203895" />
+      <entry key="M10" value="33.99382183019416" />
+      <entry key="M15" value="49.98752791037454" />
+      <entry key="M30" value="91.76948020931512" />
+      <entry key="H1" value="165.07029764573738" />
+      <entry key="H2" value="254.4598487943505" />
+      <entry key="H4" value="329.02097529116475" />
+      <entry key="D1" value="416.05439676221346" />
+      <entry key="W1" value="433.92550363286983" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.608143084516489E-199" />
+      <entry key="S2" value="3.206672231040512E-50" />
+      <entry key="S5" value="2.043210890352147E-20" />
+      <entry key="S10" value="1.9862215489002866E-10" />
+      <entry key="S30" value="0.0013053284637687828" />
+      <entry key="S60" value="0.08215655967360609" />
+      <entry key="M2" value="0.6892783077973877" />
+      <entry key="M5" value="2.644771367965291" />
+      <entry key="M10" value="4.975166101088233" />
+      <entry key="M15" value="6.843552063240293" />
+      <entry key="M30" value="12.174359298684871" />
+      <entry key="H1" value="22.74702128220944" />
+      <entry key="H2" value="36.36747175549362" />
+      <entry key="H4" value="47.97795836603316" />
+      <entry key="D1" value="61.68417249482528" />
+      <entry key="W1" value="64.51293700275596" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.036906020669672815" />
+      <entry key="MS500" value="0.5169153681239822" />
+      <entry key="S2" value="0.8479199646331478" />
+      <entry key="S5" value="0.9361424615370698" />
+      <entry key="S10" value="0.9675446700379364" />
+      <entry key="S30" value="1.0079998176120428" />
+      <entry key="S60" value="1.6518765783441849" />
+      <entry key="M2" value="5.423684140863545" />
+      <entry key="M5" value="18.15202697273955" />
+      <entry key="M10" value="38.93046215468272" />
+      <entry key="M15" value="56.7947345142734" />
+      <entry key="M30" value="103.91210322033591" />
+      <entry key="H1" value="187.78892785770097" />
+      <entry key="H2" value="290.80500792193516" />
+      <entry key="H4" value="376.9842720138044" />
+      <entry key="D1" value="477.735428659053" />
+      <entry key="W1" value="498.4379713097689" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IbI3Z72gAHVxorj5unK814HUlu" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Alternates_Array.cpp.executor": "Run",
+    "C/C++ File.Best_Time_to_Buy_and_Sell_Stock.cpp.executor": "Run",
+    "C/C++ File.BubbleShort.cpp.executor": "Run",
+    "C/C++ File.Contains Duplicate.cpp.executor": "Run",
+    "C/C++ File.Merge_Sorted_Array.cpp.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/~User~/Desktop/DSA/Book",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.Alternates_Array.cpp">
+    <configuration name="Alternates_Array.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Alternates_Array.cpp" CONFIG_NAME="Alternates_Array.cpp">
+      <option name="sourceFile" value="Alternates_Array.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Best_Time_to_Buy_and_Sell_Stock.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Best_Time_to_Buy_and_Sell_Stock.cpp" CONFIG_NAME="Best_Time_to_Buy_and_Sell_Stock.cpp">
+      <option name="sourceFile" value="Best_Time_to_Buy_and_Sell_Stock.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleShort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="BubbleShort.cpp" CONFIG_NAME="BubbleShort.cpp">
+      <option name="sourceFile" value="BubbleShort.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contains Duplicate.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Contains Duplicate.cpp" CONFIG_NAME="Contains Duplicate.cpp">
+      <option name="sourceFile" value="Contains Duplicate.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge_Sorted_Array.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Merge_Sorted_Array.cpp" CONFIG_NAME="Merge_Sorted_Array.cpp">
+      <option name="sourceFile" value="Merge_Sorted_Array.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Alternates_Array.cpp" />
+        <item itemvalue="C/C++ File.Merge_Sorted_Array.cpp" />
+        <item itemvalue="C/C++ File.Best_Time_to_Buy_and_Sell_Stock.cpp" />
+        <item itemvalue="C/C++ File.Contains Duplicate.cpp" />
+        <item itemvalue="C/C++ File.BubbleShort.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Alternates_Array.cpp"
+      },
+      "second": "09619829-6737-4fb6-acb2-fd2e7e510b21"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Contains Duplicate.cpp"
+      },
+      "second": "09619829-6737-4fb6-acb2-fd2e7e510b21"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Merge_Sorted_Array.cpp"
+      },
+      "second": "09619829-6737-4fb6-acb2-fd2e7e510b21"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.BubbleShort.cpp"
+      },
+      "second": "09619829-6737-4fb6-acb2-fd2e7e510b21"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Best_Time_to_Buy_and_Sell_Stock.cpp"
+      },
+      "second": "09619829-6737-4fb6-acb2-fd2e7e510b21"
+    }
+  ],
+  "modificationCount": 17
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83246556-f030-4775-a94c-98cc1429412f" name="Changes" comment="" />
+      <created>1788026648896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788026648896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
