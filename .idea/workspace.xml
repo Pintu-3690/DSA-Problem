@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83246556-f030-4775-a94c-98cc1429412f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Insertion_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Insertion_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Selection_sort.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="12fa249d-46c1-4186-9869-4f96941b5f64" value="" />
+      <entry key="ff36f3c8-448c-46e1-adcf-9f3eb98fa550" value="" />
+    </colors>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="38" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SecondLargestElement_Array.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Traversal.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Traversal_Range-Base.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/array_Travers.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tekoBwEl" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="5.933177786613435E-17" />
+      <entry key="MS500" value="7.625172784303321E-4" />
+      <entry key="S2" value="0.31838707864760957" />
+      <entry key="S5" value="1.2447379511100476" />
+      <entry key="S10" value="2.209013244293166" />
+      <entry key="S30" value="3.674275592173303" />
+      <entry key="S60" value="4.619354070751351" />
+      <entry key="M2" value="7.994639865176852" />
+      <entry key="M5" value="25.22786908567231" />
+      <entry key="M10" value="50.25649980059451" />
+      <entry key="M15" value="68.23914904358033" />
+      <entry key="M30" value="105.885981629031" />
+      <entry key="H1" value="181.58306929607605" />
+      <entry key="H2" value="346.59502483988973" />
+      <entry key="H4" value="632.7222877286422" />
+      <entry key="D1" value="1386.8648750862562" />
+      <entry key="W1" value="1638.2900993499036" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001554890448" />
+      <entry key="S2" value="1.0254039801428478" />
+      <entry key="S5" value="1.3814144589947006" />
+      <entry key="S10" value="2.0337925624575504" />
+      <entry key="S30" value="3.0860765744150793" />
+      <entry key="S60" value="3.512106863712494" />
+      <entry key="M2" value="4.023983785421172" />
+      <entry key="M5" value="6.172189757450388" />
+      <entry key="M10" value="9.536639490830895" />
+      <entry key="M15" value="12.349538070185492" />
+      <entry key="M30" value="19.040168550002424" />
+      <entry key="H1" value="32.566143566437965" />
+      <entry key="H2" value="60.579680105686926" />
+      <entry key="H4" value="105.97110545217639" />
+      <entry key="D1" value="219.05892795818644" />
+      <entry key="W1" value="256.0095856862821" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.46191084029173E-6" />
+      <entry key="MS500" value="0.08123474582611627" />
+      <entry key="S2" value="0.8007714252592214" />
+      <entry key="S5" value="2.173577836851317" />
+      <entry key="S10" value="3.8309473612919303" />
+      <entry key="S30" value="6.514167769305856" />
+      <entry key="S60" value="7.980077368633396" />
+      <entry key="M2" value="11.911148899484333" />
+      <entry key="M5" value="31.296899654788877" />
+      <entry key="M10" value="59.69595012021771" />
+      <entry key="M15" value="80.50091323280712" />
+      <entry key="M30" value="124.85823343126759" />
+      <entry key="H1" value="214.09364808128296" />
+      <entry key="H2" value="407.1259550810058" />
+      <entry key="H4" value="738.6531561991079" />
+      <entry key="D1" value="1605.9108930714754" />
+      <entry key="W1" value="1894.297558036589" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IbI3Z72gAHVxorj5unK814HUlu" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Alternates_Array.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Array Reverse .cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Best_Time_to_Buy_and_Sell_Stock.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.BinarySearch.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.BubbleShort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Bubble_sort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Contains Duplicate.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Count_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Frequency.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Hasing.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Largest_Array .cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Largest_elemen.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Merge_Sorted_Array.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.SecondLargestElement_Array.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Selection_sort.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Traversal_Range-Based.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Traversal_Range-Based.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.min_max.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.string.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.stringQuestions.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/~User~/Desktop/DSA/Book&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.SQL&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="C/C++ File.Selection_sort.cpp">
+    <configuration name="Bubble_sort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Bubble_sort.cpp" CONFIG_NAME="Bubble_sort.cpp">
+      <option name="sourceFile" value="Bubble_sort.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Count_1.cpp" CONFIG_NAME="Count_1.cpp">
+      <option name="sourceFile" value="Count_1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hasing.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Hasing.cpp" CONFIG_NAME="Hasing.cpp">
+      <option name="sourceFile" value="Hasing.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Largest_elemen.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Largest_elemen.cpp" CONFIG_NAME="Largest_elemen.cpp">
+      <option name="sourceFile" value="Largest_elemen.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selection_sort.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Book" TARGET_NAME="Selection_sort.cpp" CONFIG_NAME="Selection_sort.cpp">
+      <option name="sourceFile" value="Selection_sort.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Selection_sort.cpp" />
+        <item itemvalue="C/C++ File.Largest_elemen.cpp" />
+        <item itemvalue="C/C++ File.Hasing.cpp" />
+        <item itemvalue="C/C++ File.Bubble_sort.cpp" />
+        <item itemvalue="C/C++ File.Count_1.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Selection_sort.cpp&quot;
+      },
+      &quot;second&quot;: &quot;09619829-6737-4fb6-acb2-fd2e7e510b21&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Count_1.cpp&quot;
+      },
+      &quot;second&quot;: &quot;09619829-6737-4fb6-acb2-fd2e7e510b21&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Largest_elemen.cpp&quot;
+      },
+      &quot;second&quot;: &quot;09619829-6737-4fb6-acb2-fd2e7e510b21&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Bubble_sort.cpp&quot;
+      },
+      &quot;second&quot;: &quot;09619829-6737-4fb6-acb2-fd2e7e510b21&quot;
+    },
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.Hasing.cpp&quot;
+      },
+      &quot;second&quot;: &quot;09619829-6737-4fb6-acb2-fd2e7e510b21&quot;
+    }
+  ],
+  &quot;modificationCount&quot;: 55
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83246556-f030-4775-a94c-98cc1429412f" name="Changes" comment="" />
+      <created>1788026648896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788026648896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Frequency.cpp</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
