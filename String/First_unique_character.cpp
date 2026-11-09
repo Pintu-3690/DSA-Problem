@@ -18,7 +18,8 @@ char unique(string &s) {
 }
 int main() {
 
-string s = "ggppddnrrr";
+string s = "ggppddn"
+           "rr";
     cout<<unique(s);
     return 0;
 }
